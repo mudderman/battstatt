@@ -2,8 +2,11 @@
 
 The popular (once upon a time) battery widget for Android, now as open source!
 
+[BattStattFree on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.battery)  
+[BattStattPro on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.batterypro)
+
 **NOTE**
-This is the source code as I found it in one of my old subversion repositories. The code is provided as-is (as-found?) the way it was checked in back in 2011 (which was the last time I touched the code).
+This is the source code as I found it in one of my old subversion repositories. The code is provided as-is (as-found? :smile:) the way it was checked in back in 2011 (which was the last time I touched the code).
 
 Feel free to do whatever you want with this pile of uglyness.
 
@@ -13,9 +16,9 @@ There's also a "lib" project, which holds some common ui stuff, like preferences
 ## Setup
 
 1. Start with importing the common project to you IDE.
-2. Then the BattStatt* projects.
+2. Then the BattStattFree and BattStattPro projects.
 3. Add the common project as an android lib to the two imported projects.
-4. Stuff should build.
+4. Stuff should build. :thumbsup: :dancers:
 5. ???
 6. Profit!
 
