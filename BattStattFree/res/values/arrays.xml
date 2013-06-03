@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="numbers">
+		<item></item>
+		<item>ONE</item>
+		<item>TWO</item>
+		<item>THREE</item>
+		<item>FOUR</item>
+		<item>FIVE</item>
+		<item>SIX</item>
+		<item>SEVEN</item>
+		<item>EIGHT</item>
+		<item>NINE</item>
+		<item>TEN</item>
+		<item>ELEVEN</item>
+		<item>TWELVE</item>
+		<item>THIRTEEN</item>
+		<item>FOURTEEN</item>
+		<item>FIFTEEN</item>
+		<item>SIXTEEN</item>
+		<item>SEVENTEEN</item>
+		<item>EIGHTEEN</item>
+		<item>NINETEEN</item>
+	</string-array>
+
+	<string-array name="tens">
+		<item></item>
+		<item>TEN</item>
+		<item>TWENTY</item>
+		<item>THIRTY</item>
+		<item>FORTY</item>
+		<item>FIFTY</item>
+		<item>SIXTY</item>
+		<item>SEVENTY</item>
+		<item>EIGHTY</item>
+		<item>NINETY</item>
+	</string-array>
+
+	<string-array name="locale_names">
+		<item>Automatic</item>
+		<item>English</item>
+		<item>Swedish</item>
+	</string-array>
+
+	<string-array name="locale_values">
+		<item>auto</item>
+		<item>en</item>
+		<item>sv_se</item>
+	</string-array>
+
+	<string-array name="color_names">
+		<item>Black</item>
+		<item>Blue</item>
+		<item>Cyan</item>
+		<item>Dark grey</item>
+		<item>Grey</item>
+		<item>Green</item>
+		<item>Light grey</item>
+		<item>Magenta</item>
+		<item>Red</item>
+		<item>White</item>
+		<item>Yellow</item>
+	</string-array>
+
+	<string-array name="color_values">
+		<item>#000000</item>
+		<item>#0000ff</item>
+		<item>#00ffff</item>
+		<item>#444444</item>
+		<item>#888888</item>
+		<item>#00ff00</item>
+		<item>#cccccc</item>
+		<item>#ff00ff</item>
+		<item>#ff0000</item>
+		<item>#ffffff</item>
+		<item>#ffff00</item>
+	</string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BattStatt</string>
+	<string name="app_name_large">BattStatt (4x1)</string>
+	<string name="app_name_medium">BattStatt (2x1)</string>
+	<string name="app_name_small">BattStatt (1x1)</string>
+	<string name="app_name_small_number">BattStatt (1x1) siffror</string>
+
+	<!-- Config strings -->
+	<string name="config_screen_title">BattStatt - Konfiguration</string>
+	<string name="config_cat_colors">Färgval</string>
+	<string name="config_cat_display">Visningsalternativ</string>
+	<string name="widget_text_color_title">Välj textfärg</string>
+	<string name="widget_background_enabled_title">Bakgrund</string>
+	<string name="widget_background_enabled_summary">Ska widgeten ha en halv-transparent bakgrund?</string>
+	<string name="widget_background_color_title">Välj bakgrundsfärg</string>
+	<string name="widget_background_color_summary">Standradfärg är svart</string>
+	<string name="widget_display_percent_string_title">Visa procenttext</string>
+	<string name="widget_display_percent_string_summary_on">Procenttext kommer att visas när telefonen inte laddar.</string>
+	<string name="widget_display_percent_string_summary_off">Procenttext kommer inte att visas.</string>
+	<string name="widget_language_title">Språk</string>
+	<string name="widget_language_summary">Välj vilket språk BattStatt ska visas på.</string>
+
+	<string name="loading">STARTAR...</string>
+
+	<string name="battery_full_1">BATTERI</string>
+	<string name="battery_full_2">FULLT</string>
+	<string name="charging">LADDAR</string>
+	<string name="percent">PROCENT</string>
+	<string name="empty">TOMT</string>
+	<string name="and">OCH</string>
+	
+	<string name="faq_title">Welcome to BattStatt</string>
+	<string name="faq_desc">BattStatt does not act as an application but as a widget.\n\nYou can access BattStatt by either doing a long press on your home screen, selecting Widget and add the BattStatt widget of your choice, or on your home screen press the Menu button > Add and then selecting Widget and selecting the BattStatt widget of your choice.\n\nPlease note that the Motorola Droid/Milestone apparently only reports its battery percentage in 10 intervals, so you might experience that BattStatt isn\'t as precise as you wish.</string>
+</resources>

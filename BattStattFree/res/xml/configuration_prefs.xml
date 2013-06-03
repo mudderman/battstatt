@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:bj="http://schemas.android.com/apk/res/net.bajawa.battery"
+	android:title="@string/config_screen_title">
+
+	<PreferenceCategory android:title="@string/config_cat_colors">
+		<!-- Text color -->
+		<net.bajawa.lib.preference.SimpleColorPickerPreference
+			android:key="widget_text_color" android:title="@string/widget_text_color_title"
+			bj:dialogTitle="@string/widget_text_color_title" />
+
+		<!-- Background -->
+		<net.bajawa.lib.preference.OnOffPreference
+			android:key="widget_background_enabled" android:title="@string/widget_background_enabled_title"
+			android:summary="@string/widget_background_enabled_summary"
+			android:defaultValue="true" />
+
+		<net.bajawa.lib.preference.SimpleColorPickerPreference
+			android:key="widget_background_color" android:title="@string/widget_background_color_title"
+			bj:dialogTitle="@string/widget_background_color_title" bj:values="@array/color_values"
+			android:dependency="widget_background_enabled" android:defaultValue="#000000" />
+
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="@string/config_cat_display">
+		<!-- Display "percent" string or not? -->
+		<net.bajawa.lib.preference.OnOffPreference
+			android:key="widget_display_percent_string" android:title="@string/widget_display_percent_string_title"
+			bj:summaryOn="@string/widget_display_percent_string_summary_on"
+			android:defaultValue="true"
+			bj:summaryOff="@string/widget_display_percent_string_summary_off" />
+
+		<!-- Lingiri -->
+		<ListPreference android:key="widget_locale"
+			android:title="@string/widget_language_title" android:summary="@string/widget_language_summary"
+			android:entries="@array/locale_names" android:entryValues="@array/locale_values"
+			android:dialogTitle="@string/widget_language_title"
+			android:defaultValue="auto" />
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="Other stuff">
+		<Preference android:key="pro" android:title="Go Pro!"
+			android:summary="Pro version has tons more customization options! Click to open BattStatt Pro in Market" />
+	</PreferenceCategory>
+
+
+</PreferenceScreen>

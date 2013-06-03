@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:gravity="center" android:layout_gravity="center">
+
+	<ImageView android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:id="@+id/widgetBackground"
+		android:scaleType="fitXY" />
+
+	<LinearLayout android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:orientation="vertical"
+		android:gravity="center" android:id="@+id/widgetContainer">
+
+		<TextView android:id="@+id/widget_text" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:textColor="@color/widget_text_color_default_value"
+			android:textSize="40sp" android:textStyle="bold" android:text="@string/loading" />
+
+		<TextView android:id="@+id/widget_text2"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="@color/widget_text_color_default_value"
+			android:textSize="12sp" android:layout_marginTop="-14dp"
+			android:visibility="gone" />
+
+		<TextView android:id="@+id/widget_action"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textColor="@color/widget_text_color_default_value"
+			android:textStyle="bold" android:text="" android:textSize="12sp"
+			android:layout_marginTop="-14dp" />
+	</LinearLayout>
+</RelativeLayout>

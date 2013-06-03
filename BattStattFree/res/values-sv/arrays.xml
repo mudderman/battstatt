@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="numbers">
+		<item></item>
+		<item>EN</item>
+		<item>TVÅ</item>
+		<item>TRE</item>
+		<item>FYRA</item>
+		<item>FEM</item>
+		<item>SEX</item>
+		<item>SJU</item>
+		<item>ÅTTA</item>
+		<item>NIO</item>
+		<item>TIO</item>
+		<item>ELVA</item>
+		<item>TOLV</item>
+		<item>TRETTON</item>
+		<item>FJORTON</item>
+		<item>FEMTON</item>
+		<item>SEXTON</item>
+		<item>SJUTTON</item>
+		<item>ARTON</item>
+		<item>NITTON</item>
+	</string-array>
+
+	<string-array name="tens">
+		<item></item>
+		<item>TIO</item>
+		<item>TJUGO</item>
+		<item>TRETTIO</item>
+		<item>FYRTIO</item>
+		<item>FEMTIO</item>
+		<item>SEXTIO</item>
+		<item>SJUTTIO</item>
+		<item>ÅTTIO</item>
+		<item>NITTIO</item>
+	</string-array>
+	
+	<string-array name="locale_names">
+		<item>Automatiskt</item>
+		<item>Engelska</item>
+		<item>Svenska</item>
+	</string-array>
+	
+	<string-array name="locale_values">
+		<item>auto</item>
+		<item>en</item>
+		<item>sv_se</item>
+	</string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="app_name">BattStatt Free</string>
+	<string name="app_name_large">BattStatt (4x1)</string>
+	<string name="app_name_medium">BattStatt (2x1)</string>
+	<string name="app_name_small">BattStatt (1x1)</string>
+	<string name="app_name_small_number">BattStatt (1x1) numbers</string>
+
+	<!-- Config strings -->
+	<string name="config_screen_title">BattStatt - Configuration</string>
+	<string name="config_cat_colors">Color options</string>
+	<string name="config_cat_display">Display options</string>
+	<string name="widget_text_color_title">Select text color</string>
+	<string name="widget_background_enabled_title">Enable background</string>
+	<string name="widget_background_enabled_summary">Enable to display semi-transparent background</string>
+	<string name="widget_background_color_title">Select background color</string>
+	<string name="widget_background_color_summary">Default color is black</string>
+	<string name="widget_display_percent_string_title">Show percentage string</string>
+	<string name="widget_display_percent_string_summary_on">Percentage string will show when not charging.</string>
+	<string name="widget_display_percent_string_summary_off">Percentage string will not show.</string>
+	<string name="widget_language_title">Language</string>
+	<string name="widget_language_summary">Select what language BattStatt should be displayed in.</string>
+
+	<string name="loading">LOADING...</string>
+
+	<string name="battery_full_1">FULLY</string>
+	<string name="battery_full_2">CHARGED</string>
+	<string name="charging">CHARGING</string>
+	<string name="percent">PERCENT</string>
+	<string name="empty">EMPTY</string>
+	<string name="and">AND</string>
+
+    <string name="chosen_color_label">Chosen color:</string>
+    
+	<string name="faq_title">Welcome to BattStatt</string>
+	<string name="faq_desc">BattStatt does not act as an application but as a widget.\n\nYou can access BattStatt by either doing a long press on your home screen, selecting Widget and add the BattStatt widget of your choice, or on your home screen press the Menu button > Add and then selecting Widget and selecting the BattStatt widget of your choice.\n\nPlease note that the Motorola Droid/Milestone apparently only reports its battery percentage in 10 intervals, so you might experience that BattStatt isn\'t as precise as you wish.</string>
+	
+	<string name="pro">This version of BattStatt is rather limited to what you can configure. In the Pro version, however, can can configure the following:&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Custom fonts!&lt;/b&gt;&lt;br/&gt;
+Choose from the standard Android fonts or add you own on the sdcard and then use them in the widgets.&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Text options:&lt;/b&gt;&lt;br/&gt;
+- Choose which words that should be in capital letters or which words that should be in bold.&lt;br/&gt;
+- Set the fontsizes for each of the different words.&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Colors:&lt;/b&gt;&lt;br/&gt;
+Select freely which colors you want, and which words that should have them. You can also set the background color freely and its transparency.&lt;br/&gt;&lt;br/&gt;
+And more...&lt;br/&gt;&lt;br/&gt;
+Choose below if you want to open the Android Market page for BattStatt Pro and decide for youself, it\'s only 10 SEK ~ 1.5 USD ~ 0.9 GBP.</string>
+</resources>
