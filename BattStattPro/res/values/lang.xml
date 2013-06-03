@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="loading">LOADING...</string>
+	<string name="charging">CHARGING</string>
+	<string name="percent">PERCENT</string>
+	
+	<bool name="tensFirst">true</bool>
+	
+	<string-array name="numbers">
+		<item>EMPTY</item>
+		<item>ONE</item>
+		<item>TWO</item>
+		<item>THREE</item>
+		<item>FOUR</item>
+		<item>FIVE</item>
+		<item>SIX</item>
+		<item>SEVEN</item>
+		<item>EIGHT</item>
+		<item>NINE</item>
+		<item>TEN</item>
+		<item>ELEVEN</item>
+		<item>TWELVE</item>
+		<item>THIRTEEN</item>
+		<item>FOURTEEN</item>
+		<item>FIFTEEN</item>
+		<item>SIXTEEN</item>
+		<item>SEVENTEEN</item>
+		<item>EIGHTEEN</item>
+		<item>NINETEEN</item>
+		<item>TWENTY</item>
+		<item>TWENTY|ONE</item>
+		<item>TWENTY|TWO</item>
+		<item>TWENTY|THREE</item>
+		<item>TWENTY|FOUR</item>
+		<item>TWENTY|FIVE</item>
+		<item>TWENTY|SIX</item>
+		<item>TWENTY|SEVEN</item>
+		<item>TWENTY|EIGHT</item>
+		<item>TWENTY|NINE</item>
+		<item>THIRTY</item>
+		<item>THIRTY|ONE</item>
+		<item>THIRTY|TWO</item>
+		<item>THIRTY|THREE</item>
+		<item>THIRTY|FOUR</item>
+		<item>THIRTY|FIVE</item>
+		<item>THIRTY|SIX</item>
+		<item>THIRTY|SEVEN</item>
+		<item>THIRTY|EIGHT</item>
+		<item>THIRTY|NINE</item>
+		<item>FORTY</item>
+		<item>FORTY|ONE</item>
+		<item>FORTY|TWO</item>
+		<item>FORTY|THREE</item>
+		<item>FORTY|FOUR</item>
+		<item>FORTY|FIVE</item>
+		<item>FORTY|SIX</item>
+		<item>FORTY|SEVEN</item>
+		<item>FORTY|EIGHT</item>
+		<item>FORTY|NINE</item>
+		<item>FIFTY</item>
+		<item>FIFTY|ONE</item>
+		<item>FIFTY|TWO</item>
+		<item>FIFTY|THREE</item>
+		<item>FIFTY|FOUR</item>
+		<item>FIFTY|FIVE</item>
+		<item>FIFTY|SIX</item>
+		<item>FIFTY|SEVEN</item>
+		<item>FIFTY|EIGHT</item>
+		<item>FIFTY|NINE</item>
+		<item>SIXTY</item>
+		<item>SIXTY|ONE</item>
+		<item>SIXTY|TWO</item>
+		<item>SIXTY|THREE</item>
+		<item>SIXTY|FOUR</item>
+		<item>SIXTY|FIVE</item>
+		<item>SIXTY|SIX</item>
+		<item>SIXTY|SEVEN</item>
+		<item>SIXTY|EIGHT</item>
+		<item>SIXTY|NINE</item>
+		<item>SEVENTY</item>
+		<item>SEVENTY|ONE</item>
+		<item>SEVENTY|TWO</item>
+		<item>SEVENTY|THREE</item>
+		<item>SEVENTY|FOUR</item>
+		<item>SEVENTY|FIVE</item>
+		<item>SEVENTY|SIX</item>
+		<item>SEVENTY|SEVEN</item>
+		<item>SEVENTY|EIGHT</item>
+		<item>SEVENTY|NINE</item>
+		<item>EIGHTY</item>
+		<item>EIGHTY|ONE</item>
+		<item>EIGHTY|TWO</item>
+		<item>EIGHTY|THREE</item>
+		<item>EIGHTY|FOUR</item>
+		<item>EIGHTY|FIVE</item>
+		<item>EIGHTY|SIX</item>
+		<item>EIGHTY|SEVEN</item>
+		<item>EIGHTY|EIGHT</item>
+		<item>EIGHTY|NINE</item>
+		<item>NINETY</item>
+		<item>NINETY|ONE</item>
+		<item>NINETY|TWO</item>
+		<item>NINETY|THREE</item>
+		<item>NINETY|FOUR</item>
+		<item>NINETY|FIVE</item>
+		<item>NINETY|SIX</item>
+		<item>NINETY|SEVEN</item>
+		<item>NINETY|EIGHT</item>
+		<item>NINETY|NINE</item>
+		<item>FULLY|CHARGED</item>
+	</string-array>
+</resources>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="loading">LOADING...</string>
+	<string name="charging">LADDAR</string>
+	<string name="percent">PROCENT</string>
+	
+	<bool name="tensFirst">true</bool>
+	
+	<string-array name="numbers">
+		<item>TOMT</item>
+		<item>EN</item>
+		<item>TVÅ</item>
+		<item>TRE</item>
+		<item>FYRA</item>
+		<item>FEM</item>
+		<item>SEX</item>
+		<item>SJU</item>
+		<item>ÅTTA</item>
+		<item>NIO</item>
+		<item>TIO</item>
+		<item>ELVA</item>
+		<item>TOLV</item>
+		<item>TRETTON</item>
+		<item>FJORTON</item>
+		<item>FEMTON</item>
+		<item>SEXTON</item>
+		<item>SJUTTON</item>
+		<item>ARTON</item>
+		<item>NITTON</item>
+		<item>TJUGO</item>
+		<item>TJUGO|EN</item>
+		<item>TJUGO|TVÅ</item>
+		<item>TJUGO|TRE</item>
+		<item>TJUGO|FYRA</item>
+		<item>TJUGO|FEM</item>
+		<item>TJUGO|SEX</item>
+		<item>TJUGO|SJU</item>
+		<item>TJUGO|ÅTTA</item>
+		<item>TJUGO|NIO</item>
+		<item>TRETTIO</item>
+		<item>TRETTIO|EN</item>
+		<item>TRETTIO|TVÅ</item>
+		<item>TRETTIO|TRE</item>
+		<item>TRETTIO|FYRA</item>
+		<item>TRETTIO|FEM</item>
+		<item>TRETTIO|SEX</item>
+		<item>TRETTIO|SJU</item>
+		<item>TRETTIO|ÅTTA</item>
+		<item>TRETTIO|NIO</item>
+		<item>FYRTIO</item>
+		<item>FYRTIO|EN</item>
+		<item>FYRTIO|TVÅ</item>
+		<item>FYRTIO|TRE</item>
+		<item>FYRTIO|FYRA</item>
+		<item>FYRTIO|FEM</item>
+		<item>FYRTIO|SEX</item>
+		<item>FYRTIO|SJU</item>
+		<item>FYRTIO|ÅTTA</item>
+		<item>FYRTIO|NIO</item>
+		<item>FEMTIO</item>
+		<item>FEMTIO|EN</item>
+		<item>FEMTIO|TVÅ</item>
+		<item>FEMTIO|TRE</item>
+		<item>FEMTIO|FYRA</item>
+		<item>FEMTIO|FEM</item>
+		<item>FEMTIO|SEX</item>
+		<item>FEMTIO|SJU</item>
+		<item>FEMTIO|ÅTTA</item>
+		<item>FEMTIO|NIO</item>
+		<item>SEXTIO</item>
+		<item>SEXTIO|EN</item>
+		<item>SEXTIO|TVÅ</item>
+		<item>SEXTIO|TRE</item>
+		<item>SEXTIO|FYRA</item>
+		<item>SEXTIO|FEM</item>
+		<item>SEXTIO|SEX</item>
+		<item>SEXTIO|SJU</item>
+		<item>SEXTIO|ÅTTA</item>
+		<item>SEXTIO|NIO</item>
+		<item>SJUTTIO</item>
+		<item>SJUTTIO|EN</item>
+		<item>SJUTTIO|TVÅ</item>
+		<item>SJUTTIO|TRE</item>
+		<item>SJUTTIO|FYRA</item>
+		<item>SJUTTIO|FEM</item>
+		<item>SJUTTIO|SEX</item>
+		<item>SJUTTIO|SJU</item>
+		<item>SJUTTIO|ÅTTA</item>
+		<item>SJUTTIO|NIO</item>
+		<item>ÅTTIO</item>
+		<item>ÅTTIO|EN</item>
+		<item>ÅTTIO|TVÅ</item>
+		<item>ÅTTIO|TRE</item>
+		<item>ÅTTIO|FYRA</item>
+		<item>ÅTTIO|FEM</item>
+		<item>ÅTTIO|SEX</item>
+		<item>ÅTTIO|SJU</item>
+		<item>ÅTTIO|ÅTTA</item>
+		<item>ÅTTIO|NIO</item>
+		<item>NITTIO</item>
+		<item>NITTIO|EN</item>
+		<item>NITTIO|TVÅ</item>
+		<item>NITTIO|TRE</item>
+		<item>NITTIO|FYRA</item>
+		<item>NITTIO|FEM</item>
+		<item>NITTIO|SEX</item>
+		<item>NITTIO|SJU</item>
+		<item>NITTIO|ÅTTA</item>
+		<item>NITTIO|NIO</item>
+		<item>BATTERI|FULLT</item>
+	</string-array>
+</resources>

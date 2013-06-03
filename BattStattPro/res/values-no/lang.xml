@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="loading">LOADING...</string>
+	<string name="charging">LADER</string>
+	<string name="percent">PROSENT</string>
+	
+	<bool name="tensFirst">true</bool>
+
+	<string-array name="numbers">
+		<item>tomt</item>
+		<item>En</item>
+		<item>To</item>
+		<item>Tre</item>
+		<item>Fire</item>
+		<item>Fem</item>
+		<item>Seks</item>
+		<item>Syv</item>
+		<item>Åtte</item>
+		<item>Ni</item>
+		<item>Ti</item>
+		<item>Elleve</item>
+		<item>Tolv</item>
+		<item>Tretten</item>
+		<item>Fjorten</item>
+		<item>Femten</item>
+		<item>Seksten</item>
+		<item>Sytten</item>
+		<item>Atten</item>
+		<item>Nitten</item>
+		<item>Tjue</item>
+		<item>Tjue|En</item>
+		<item>Tjue|To</item>
+		<item>Tjue|Tre</item>
+		<item>Tjue|Fire</item>
+		<item>Tjue|Fem</item>
+		<item>Tjue|Seks</item>
+		<item>Tjue|Syv</item>
+		<item>Tjue|åtte</item>
+		<item>Tjue|Ni</item>
+		<item>Tretti</item>
+		<item>Tretti|En</item>
+		<item>Tretti|To</item>
+		<item>Tretti|Tre</item>
+		<item>Tretti|Fire</item>
+		<item>Tretti|Fem</item>
+		<item>Tretti|Seks</item>
+		<item>Tretti|Syv</item>
+		<item>Tretti|åtte</item>
+		<item>Tretti|Ni</item>
+		<item>Førti</item>
+		<item>Førti|En</item>
+		<item>Førti|To</item>
+		<item>Førti|Tre</item>
+		<item>Førti|Fire</item>
+		<item>Førti|Fem</item>
+		<item>Førti|Seks</item>
+		<item>Førti|Syv</item>
+		<item>Førti|åtte</item>
+		<item>Førti|Ni</item>
+		<item>Femti</item>
+		<item>Femti|En</item>
+		<item>Femti|To</item>
+		<item>Femti|Tre</item>
+		<item>Femti|Fire</item>
+		<item>Femti|Fem</item>
+		<item>Femti|Seks</item>
+		<item>Femti|Syv</item>
+		<item>Femti|åtte</item>
+		<item>Femti|Ni</item>
+		<item>Seksti</item>
+		<item>Seksti|En</item>
+		<item>Seksti|To</item>
+		<item>Seksti|Tre</item>
+		<item>Seksti|Fire</item>
+		<item>Seksti|Fem</item>
+		<item>Seksti|Seks</item>
+		<item>Seksti|Syv</item>
+		<item>Seksti|åtte</item>
+		<item>Seksti|Ni</item>
+		<item>Sytti</item>
+		<item>Sytti|En</item>
+		<item>Sytti|To</item>
+		<item>Sytti|Tre</item>
+		<item>Sytti|Fire</item>
+		<item>Sytti|Fem</item>
+		<item>Sytti|Seks</item>
+		<item>Sytti|Syv</item>
+		<item>Sytti|åtte</item>
+		<item>Sytti|Ni</item>
+		<item>Åtti</item>
+		<item>Åtti|En</item>
+		<item>Åtti|To</item>
+		<item>Åtti|Tre</item>
+		<item>Åtti|Fire</item>
+		<item>Åtti|Fem</item>
+		<item>Åtti|Seks</item>
+		<item>Åtti|Syv</item>
+		<item>Åtti|åtte</item>
+		<item>Åtti|Ni</item>
+		<item>Nitti</item>
+		<item>Nitti|En</item>
+		<item>Nitti|To</item>
+		<item>Nitti|Tre</item>
+		<item>Nitti|Fire</item>
+		<item>Nitti|Fem</item>
+		<item>Nitti|Seks</item>
+		<item>Nitti|Syv</item>
+		<item>Nitti|åtte</item>
+		<item>Nitti|Ni</item>
+		<item>fullt|ladet</item>
+	</string-array>
+</resources>

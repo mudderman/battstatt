@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:bj="http://schemas.android.com/apk/res/net.bajawa.batterypro"
+	android:title="@string/config_screen_title">
+
+	<PreferenceCategory android:title="Theme Options">
+
+		<!-- Text options -->
+		<PreferenceScreen android:title="Text options"
+			android:summary="Font, colors, sizes, etc." android:widgetLayout="@layout/pref_list_arrow">
+
+			<!-- Font picker -->
+			<net.bajawa.lib.preference.FontPickerPreference
+				android:key="widget_text_font" android:title="Font" />
+
+			<!-- Text shadow -->
+			<net.bajawa.lib.preference.OnOffPreference
+				android:key="widget_text_shadow" android:title="Enable drop shadow?"
+				android:summary="Should the text have a drop shadow?"
+				android:defaultValue="true" />
+
+			<!-- Capitalization -->
+			<ListPreference android:key="widget_capitalize_rule"
+				android:title="Capitalize" android:summary="Set which words that should be capitalized."
+				android:entries="@array/capitalize_names" android:entryValues="@array/rules_values"
+				android:widgetLayout="@null" android:defaultValue="all" />
+
+			<!-- Capitalize action? -->
+			<net.bajawa.lib.preference.OnOffPreference
+				android:key="widget_capitalize_action" android:title="Capitalize action?"
+				android:summary="Make the charging and percentage string all caps?"
+				android:defaultValue="true" />
+
+			<!-- Boldification -->
+			<ListPreference android:key="widget_boldify_rule"
+				android:title="Boldify" android:summary="Set which words that should be bold."
+				android:entries="@array/boldify_names" android:entryValues="@array/rules_values"
+				android:widgetLayout="@null" android:defaultValue="first" />
+
+			<!-- Boldify action? -->
+			<net.bajawa.lib.preference.OnOffPreference
+				android:key="widget_boldify_action" android:title="Boldify action?"
+				android:summary="Make the charging and percentage string bold?"
+				android:defaultValue="true" />
+
+			<!-- Text colors -->
+			<PreferenceCategory android:title="Text colors">
+				<net.bajawa.lib.preference.ColorPickerPreference
+					android:key="widget_color_tens" android:title="Tens"
+					bj:displayAlpha="false" android:defaultValue="0xffffffff" />
+
+				<net.bajawa.lib.preference.ColorPickerPreference
+					android:key="widget_color_numbers" android:title="Numbers"
+					bj:displayAlpha="false" android:defaultValue="0xffffffff" />
+
+				<net.bajawa.lib.preference.ColorPickerPreference
+					android:key="widget_color_and" android:title="And string"
+					bj:displayAlpha="false" android:defaultValue="0xffffffff" />
+
+				<net.bajawa.lib.preference.ColorPickerPreference
+					android:key="widget_color_action" android:title="Action text"
+					bj:displayAlpha="false" android:defaultValue="0xffffffff" />
+
+				<net.bajawa.lib.preference.ColorPickerPreference
+					android:key="widget_color_number" android:title="Only number"
+					bj:displayAlpha="false" android:defaultValue="0xffffffff" />
+			</PreferenceCategory>
+
+
+			<!-- Text sizes? -->
+			<PreferenceCategory android:title="Text sizes">
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_size_tens" android:title="Tens" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_size_numbers" android:title="Numbers" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_size_and" android:title="And string" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_size_action" android:title="Action text" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_size_number" android:title="Only number" />
+			</PreferenceCategory>
+
+			<!-- Offsets -->
+			<PreferenceCategory android:title="Text offsets (y)">
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_offset_level" android:title="Battery level string" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_offset_action" android:title="Action text" />
+
+				<net.bajawa.lib.preference.NumberPickerPreference
+					android:key="widget_offset_number" android:title="Only number" />
+			</PreferenceCategory>
+
+		</PreferenceScreen>
+
+		<PreferenceScreen android:title="Background options"
+			android:widgetLayout="@layout/pref_list_arrow">
+
+			<!-- Enable Background -->
+			<net.bajawa.lib.preference.OnOffPreference
+				android:key="widget_background_enabled" android:title="Enable background"
+				android:summary="Fill the background of the widget with a color?"
+				android:defaultValue="true" />
+
+			<!-- Background color -->
+			<net.bajawa.lib.preference.ColorPickerPreference
+				android:key="widget_background_color" android:title="Background color"
+				android:defaultValue="0x7f000000" android:dependency="widget_background_enabled"
+				bj:displayAlpha="true" />
+
+		</PreferenceScreen>
+
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="Display option">
+
+		<!-- Display charging text or not? -->
+		<net.bajawa.lib.preference.OnOffPreference
+			android:key="widget_display_charging_string" android:title="Display charging string"
+			android:summary="If selected, the charging string will be shown if the phone is charging."
+			android:defaultValue="true" />
+
+		<!-- Display "percent" string or not? -->
+		<net.bajawa.lib.preference.OnOffPreference
+			android:key="widget_display_percent_string" android:title="Display percentage string"
+			android:summary="If selected, the prercentage string will be shown when not charging."
+			android:defaultValue="true" />
+
+		<!-- Only display numbers? -->
+		<net.bajawa.lib.preference.OnOffPreference
+			android:key="widget_display_numbers" android:title="Display numbers"
+			android:summary="If selected, battery level will be reported in numbers instead of words."
+			android:defaultValue="false" />
+
+		<!-- Lingiri -->
+		<ListPreference android:key="widget_locale"
+			android:title="Language"
+			android:summary="Select what language BattStatt should be presented in."
+			android:entries="@array/locale_names" android:entryValues="@array/locale_values"
+			android:dialogTitle="Language" android:defaultValue="auto"
+			android:widgetLayout="@null" />
+	</PreferenceCategory>
+
+	<PreferenceCategory android:title="Widget action">
+
+		<ListPreference android:entries="@array/action_names"
+			android:entryValues="@array/action_values" android:key="widget_action"
+			android:title="Widget action" android:summary="Select what should happen when pressing the widget."
+			android:dialogTitle="Select action" android:defaultValue="bajawa.intent.action.CONFIGURE"
+			android:widgetLayout="@null" />
+	</PreferenceCategory>
+
+</PreferenceScreen>

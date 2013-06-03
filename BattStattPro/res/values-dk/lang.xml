@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="loading">LOADING...</string>
+	<string name="charging">LADER</string>
+	<string name="percent">PROCENT</string>
+	
+	<bool name="tensFirst">false</bool>
+	
+	<string-array name="numbers">
+		<item>TOM</item>
+		<item>EN</item>
+		<item>TO</item>
+		<item>TRE</item>
+		<item>FIRE</item>
+		<item>FEM</item>
+		<item>SEKS</item>
+		<item>SYV</item>
+		<item>OTTE</item>
+		<item>NI</item>
+		<item>TI</item>
+		<item>ELLEVE</item>
+		<item>TOLV</item>
+		<item>TRETTEN</item>
+		<item>FJORTEN</item>
+		<item>FEMTEN</item>
+		<item>SEKSTEN</item>
+		<item>SYTTEN</item>
+		<item>ATTEN</item>
+		<item>NITTEN</item>
+		<item>TYVE</item>
+		<item>EN|OG|TYVE</item>
+		<item>TO|OG|TYVE</item>
+		<item>TRE|OG|TYVE</item>
+		<item>FIRE|OG|TYVE</item>
+		<item>FEM|OG|TYVE</item>
+		<item>SEKS|OG|TYVE</item>
+		<item>SYV|OG|TYVE</item>
+		<item>OTTE|OG|TYVE</item>
+		<item>NI|OG|TYVE</item>
+		<item>TREDIVE</item>
+		<item>EN|OG|TREDIVE</item>
+		<item>TO|OG|TREDIVE</item>
+		<item>TRE|OG|TREDIVE</item>
+		<item>FIRE|OG|TREDIVE</item>
+		<item>FEM|OG|TREDIVE</item>
+		<item>SEKS|OG|TREDIVE</item>
+		<item>SYV|OG|TREDIVE</item>
+		<item>OTTE|OG|TREDIVE</item>
+		<item>NI|OG|TREDIVE</item>
+		<item>FYRRE</item>
+		<item>EN|OG|FYRRE</item>
+		<item>TO|OG|FYRRE</item>
+		<item>TRE|OG|FYRRE</item>
+		<item>FIRE|OG|FYRRE</item>
+		<item>FEM|OG|FYRRE</item>
+		<item>SEKS|OG|FYRRE</item>
+		<item>SYV|OG|FYRRE</item>
+		<item>OTTE|OG|FYRRE</item>
+		<item>NI|OG|FYRRE</item>
+		<item>HALVTREDS</item>
+		<item>EN|OG|HALVTREDS</item>
+		<item>TO|OG|HALVTREDS</item>
+		<item>TRE|OG|HALVTREDS</item>
+		<item>FIRE|OG|HALVTREDS</item>
+		<item>FEM|OG|HALVTREDS</item>
+		<item>SEKS|OG|HALVTREDS</item>
+		<item>SYV|OG|HALVTREDS</item>
+		<item>OTTE|OG|HALVTREDS</item>
+		<item>NI|OG|HALVTREDS</item>
+		<item>TRES</item>
+		<item>EN|OG|TRES</item>
+		<item>TO|OG|TRES</item>
+		<item>TRE|OG|TRES</item>
+		<item>FIRE|OG|TRES</item>
+		<item>FEM|OG|TRES</item>
+		<item>SEKS|OG|TRES</item>
+		<item>SYV|OG|TRES</item>
+		<item>OTTE|OG|TRES</item>
+		<item>NI|OG|TRES</item>
+		<item>HALVFJERDS</item>
+		<item>EN|OG|HALVFJERDS</item>
+		<item>TO|OG|HALVFJERDS</item>
+		<item>TRE|OG|HALVFJERDS</item>
+		<item>FIRE|OG|HALVFJERDS</item>
+		<item>FEM|OG|HALVFJERDS</item>
+		<item>SEKS|OG|HALVFJERDS</item>
+		<item>SYV|OG|HALVFJERDS</item>
+		<item>OTTE|OG|HALVFJERDS</item>
+		<item>NI|OG|HALVFJERDS</item>
+		<item>FIRS</item>
+		<item>EN|OG|FIRS</item>
+		<item>TO|OG|FIRS</item>
+		<item>TRE|OG|FIRS</item>
+		<item>FIRE|OG|FIRS</item>
+		<item>FEM|OG|FIRS</item>
+		<item>SEKS|OG|FIRS</item>
+		<item>SYV|OG|FIRS</item>
+		<item>OTTE|OG|FIRS</item>
+		<item>NI|OG|FIRS</item>
+		<item>HALVFEMS</item>
+		<item>EN|OG|HALVFEMS</item>
+		<item>TO|OG|HALVFEMS</item>
+		<item>TRE|OG|HALVFEMS</item>
+		<item>FIRE|OG|HALVFEMS</item>
+		<item>FEM|OG|HALVFEMS</item>
+		<item>SEKS|OG|HALVFEMS</item>
+		<item>SYV|OG|HALVFEMS</item>
+		<item>OTTE|OG|HALVFEMS</item>
+		<item>NI|OG|HALVFEMS</item>
+		<item>FULDT|OPLADET</item>
+	</string-array>
+</resources>

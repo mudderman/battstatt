@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BattStatt Pro</string>
+	<string name="app_name_large">BattStatt (4x1)</string>
+	<string name="app_name_medium">BattStatt (2x1)</string>
+	<string name="app_name_small">BattStatt (1x1)</string>
+
+	<!-- Config strings -->
+	<string name="config_screen_title">BattStatt - Configuration</string>
+
+	<string name="chosen_color_label">Chosen color:</string>
+
+	<string name="faq_title">Welcome to BattStatt</string>
+	<string name="faq_desc">BattStatt does not act as an application but as a widget.\n\nYou can access BattStatt by either doing a long press on your home screen, selecting Widget and add the BattStatt widget of your choice, or on your home screen press the Menu button > Add and then selecting Widget and selecting the BattStatt widget of your choice.\n\nPlease note that the Motorola Droid/Milestone apparently only reports its battery percentage in 10 intervals, so you might experience that BattStatt isn\'t as precise as you wish.</string>
+</resources>

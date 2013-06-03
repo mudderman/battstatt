@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="loading">LOADING...</string>
+	<string name="charging">OPLADEN</string>
+	<string name="percent">PROCENT</string>
+	
+	<bool name="tensFirst">false</bool>
+	
+	<string-array name="numbers">
+		<item>LEEG</item>
+		<item>EEN</item>
+		<item>TWEE</item>
+		<item>DRIE</item>
+		<item>VIER</item>
+		<item>VIJF</item>
+		<item>ZES</item>
+		<item>ZEVEN</item>
+		<item>ACHT</item>
+		<item>NEGEN</item>
+		<item>TIEN</item>
+		<item>ELF</item>
+		<item>TWAALF</item>
+		<item>DERTIEN</item>
+		<item>VEERTIEN</item>
+		<item>VIJFTIEN</item>
+		<item>ZESTIEN</item>
+		<item>ZEVENTIEN</item>
+		<item>ACHTTIEN</item>
+		<item>NEGENTIEN</item>
+		<item>TWINTIG</item>
+		<item>EEN|EN|TWINTIG</item>
+		<item>TWEE|ËN|TWINTIG</item>
+		<item>DRIE|ËN|TWINTIG</item>
+		<item>VIER|EN|TWINTIG</item>
+		<item>VIJF|EN|TWINTIG</item>
+		<item>ZES|EN|TWINTIG</item>
+		<item>ZEVEN|EN|TWINTIG</item>
+		<item>ACHT|EN|TWINTIG</item>
+		<item>NEGEN|EN|TWINTIG</item>
+		<item>DERTIG</item>
+		<item>EEN|EN|DERTIG</item>
+		<item>TWEE|ËN|DERTIG</item>
+		<item>DRIE|ËN|DERTIG</item>
+		<item>VIER|EN|DERTIG</item>
+		<item>VIJF|EN|DERTIG</item>
+		<item>ZES|EN|DERTIG</item>
+		<item>ZEVEN|EN|DERTIG</item>
+		<item>ACHT|EN|DERTIG</item>
+		<item>NEGEN|EN|DERTIG</item>
+		<item>VEERTIG</item>
+		<item>EEN|EN|VEERTIG</item>
+		<item>TWEE|ËN|VEERTIG</item>
+		<item>DRIE|ËN|VEERTIG</item>
+		<item>VIER|EN|VEERTIG</item>
+		<item>VIJF|EN|VEERTIG</item>
+		<item>ZES|EN|VEERTIG</item>
+		<item>ZEVEN|EN|VEERTIG</item>
+		<item>ACHT|EN|VEERTIG</item>
+		<item>NEGEN|EN|VEERTIG</item>
+		<item>VIJFTIG</item>
+		<item>EEN|EN|VIJFTIG</item>
+		<item>TWEE|ËN|VIJFTIG</item>
+		<item>DRIE|ËN|VIJFTIG</item>
+		<item>VIER|EN|VIJFTIG</item>
+		<item>VIJF|EN|VIJFTIG</item>
+		<item>ZES|EN|VIJFTIG</item>
+		<item>ZEVEN|EN|VIJFTIG</item>
+		<item>ACHT|EN|VIJFTIG</item>
+		<item>NEGEN|EN|VIJFTIG</item>
+		<item>ZESTIG</item>
+		<item>EEN|EN|ZESTIG</item>
+		<item>TWEE|ËN|ZESTIG</item>
+		<item>DRIE|ËN|ZESTIG</item>
+		<item>VIER|EN|ZESTIG</item>
+		<item>VIJF|EN|ZESTIG</item>
+		<item>ZES|EN|ZESTIG</item>
+		<item>ZEVEN|EN|ZESTIG</item>
+		<item>ACHT|EN|ZESTIG</item>
+		<item>NEGEN|EN|ZESTIG</item>
+		<item>ZEVENTIG</item>
+		<item>EEN|EN|ZEVENTIG</item>
+		<item>TWEE|ËN|ZEVENTIG</item>
+		<item>DRIE|ËN|ZEVENTIG</item>
+		<item>VIER|EN|ZEVENTIG</item>
+		<item>VIJF|EN|ZEVENTIG</item>
+		<item>ZES|EN|ZEVENTIG</item>
+		<item>ZEVEN|EN|ZEVENTIG</item>
+		<item>ACHT|EN|ZEVENTIG</item>
+		<item>NEGEN|EN|ZEVENTIG</item>
+		<item>TACHTIG</item>
+		<item>EEN|EN|TACHTIG</item>
+		<item>TWEE|ËN|TACHTIG</item>
+		<item>DRIE|ËN|TACHTIG</item>
+		<item>VIER|EN|TACHTIG</item>
+		<item>VIJF|EN|TACHTIG</item>
+		<item>ZES|EN|TACHTIG</item>
+		<item>ZEVEN|EN|TACHTIG</item>
+		<item>ACHT|EN|TACHTIG</item>
+		<item>NEGEN|EN|TACHTIG</item>
+		<item>NEGENTIG</item>
+		<item>EEN|EN|NEGENTIG</item>
+		<item>TWEE|ËN|NEGENTIG</item>
+		<item>DRIE|ËN|NEGENTIG</item>
+		<item>VIER|EN|NEGENTIG</item>
+		<item>VIJF|EN|NEGENTIG</item>
+		<item>ZES|EN|NEGENTIG</item>
+		<item>ZEVEN|EN|NEGENTIG</item>
+		<item>ACHT|EN|NEGENTIG</item>
+		<item>NEGEN|EN|NEGENTIG</item>
+		<item>VOLLEDIG|OPGELADEN</item>
+	</string-array>
+</resources>

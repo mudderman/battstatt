@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="loading">LOADING...</string>
+	<string name="charging">LADE</string>
+	<string name="percent">PROZENT</string>
+	
+	<bool name="tensFirst">false</bool>
+	
+	<string-array name="numbers">
+		<item>LEER</item>
+		<item>EIN</item>
+		<item>ZWEI</item>
+		<item>DREI</item>
+		<item>VIER</item>
+		<item>FÜNF</item>
+		<item>SECHS</item>
+		<item>SIEBEN</item>
+		<item>ACHT</item>
+		<item>NEUN</item>
+		<item>ZEHN</item>
+		<item>ELF</item>
+		<item>ZWÖLF</item>
+		<item>DREIZEHN</item>
+		<item>VIERZEHN</item>
+		<item>FÜNFZEHN</item>
+		<item>SECHZEHN</item>
+		<item>SIEBZEHN</item>
+		<item>ACHTZEHN</item>
+		<item>NEUNZEHN</item>
+		<item>ZWANZIG</item>
+		<item>EIN|UND|ZWANZIG</item>
+		<item>ZWEI|UND|ZWANZIG</item>
+		<item>DREI|UND|ZWANZIG</item>
+		<item>VIER|UND|ZWANZIG</item>
+		<item>FÜNF|UND|ZWANZIG</item>
+		<item>SECHS|UND|ZWANZIG</item>
+		<item>SIEBEN|UND|ZWANZIG</item>
+		<item>ACHT|UND|ZWANZIG</item>
+		<item>NEUN|UND|ZWANZIG</item>
+		<item>DREIßIG</item>
+		<item>EIN|UND|DREIßIG</item>
+		<item>ZWEI|UND|DREIßIG</item>
+		<item>DREI|UND|DREIßIG</item>
+		<item>VIER|UND|DREIßIG</item>
+		<item>FÜNF|UND|DREIßIG</item>
+		<item>SECHS|UND|DREIßIG</item>
+		<item>SIEBEN|UND|DREIßIG</item>
+		<item>ACHT|UND|DREIßIG</item>
+		<item>NEUN|UND|DREIßIG</item>
+		<item>VIERZIG</item>
+		<item>EIN|UND|VIERZIG</item>
+		<item>ZWEI|UND|VIERZIG</item>
+		<item>DREI|UND|VIERZIG</item>
+		<item>VIER|UND|VIERZIG</item>
+		<item>FÜNF|UND|VIERZIG</item>
+		<item>SECHS|UND|VIERZIG</item>
+		<item>SIEBEN|UND|VIERZIG</item>
+		<item>ACHT|UND|VIERZIG</item>
+		<item>NEUN|UND|VIERZIG</item>
+		<item>FÜNFZIG</item>
+		<item>EIN|UND|FÜNFZIG</item>
+		<item>ZWEI|UND|FÜNFZIG</item>
+		<item>DREI|UND|FÜNFZIG</item>
+		<item>VIER|UND|FÜNFZIG</item>
+		<item>FÜNF|UND|FÜNFZIG</item>
+		<item>SECHS|UND|FÜNFZIG</item>
+		<item>SIEBEN|UND|FÜNFZIG</item>
+		<item>ACHT|UND|FÜNFZIG</item>
+		<item>NEUN|UND|FÜNFZIG</item>
+		<item>SECHZIG</item>
+		<item>EIN|UND|SECHZIG</item>
+		<item>ZWEI|UND|SECHZIG</item>
+		<item>DREI|UND|SECHZIG</item>
+		<item>VIER|UND|SECHZIG</item>
+		<item>FÜNF|UND|SECHZIG</item>
+		<item>SECHS|UND|SECHZIG</item>
+		<item>SIEBEN|UND|SECHZIG</item>
+		<item>ACHT|UND|SECHZIG</item>
+		<item>NEUN|UND|SECHZIG</item>
+		<item>SIEBZIG</item>
+		<item>EIN|UND|SIEBZIG</item>
+		<item>ZWEI|UND|SIEBZIG</item>
+		<item>DREI|UND|SIEBZIG</item>
+		<item>VIER|UND|SIEBZIG</item>
+		<item>FÜNF|UND|SIEBZIG</item>
+		<item>SECHS|UND|SIEBZIG</item>
+		<item>SIEBEN|UND|SIEBZIG</item>
+		<item>ACHT|UND|SIEBZIG</item>
+		<item>NEUN|UND|SIEBZIG</item>
+		<item>ACHTZIG</item>
+		<item>EIN|UND|ACHTZIG</item>
+		<item>ZWEI|UND|ACHTZIG</item>
+		<item>DREI|UND|ACHTZIG</item>
+		<item>VIER|UND|ACHTZIG</item>
+		<item>FÜNF|UND|ACHTZIG</item>
+		<item>SECHS|UND|ACHTZIG</item>
+		<item>SIEBEN|UND|ACHTZIG</item>
+		<item>ACHT|UND|ACHTZIG</item>
+		<item>NEUN|UND|ACHTZIG</item>
+		<item>NEUNZIG</item>
+		<item>EIN|UND|NEUNZIG</item>
+		<item>ZWEI|UND|NEUNZIG</item>
+		<item>DREI|UND|NEUNZIG</item>
+		<item>VIER|UND|NEUNZIG</item>
+		<item>FÜNF|UND|NEUNZIG</item>
+		<item>SECHS|UND|NEUNZIG</item>
+		<item>SIEBEN|UND|NEUNZIG</item>
+		<item>ACHT|UND|NEUNZIG</item>
+		<item>NEUN|UND|NEUNZIG</item>
+		<item>VOLL|GELADEN</item>
+	</string-array>
+</resources>

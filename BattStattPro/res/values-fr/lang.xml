@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="loading">LOADING...</string>
+	<string name="charging">CHARGEMENT</string>
+	<string name="percent">POUR CENT</string>
+	
+	<bool name="tensFirst">true</bool>
+   	
+	<string-array name="numbers">
+		<item>VIDE</item>
+		<item>UN</item>
+		<item>DEUX</item>
+		<item>TROIS</item>
+		<item>QUATRE</item>
+		<item>CINQ</item>
+		<item>SIX</item>
+		<item>SEPT</item>
+		<item>HUIT</item>
+		<item>NEUF</item>
+		<item>DIX</item>
+		<item>ONZE</item>
+		<item>DOUZE</item>
+		<item>TREIZE</item>
+		<item>QUATORZE</item>
+		<item>QUINZE</item>
+		<item>SEIZE</item>
+		<item>DIX-SEPT</item>
+		<item>DIX-HUIT</item>
+		<item>DIX-NEUF</item>
+		<item>VINGT</item>
+		<item>VINGT|ET|UN</item>
+		<item>VINGT|DEUX</item>
+		<item>VINGT|TROIS</item>
+		<item>VINGT|QUATRE</item>
+		<item>VINGT|CINQ</item>
+		<item>VINGT|SIX</item>
+		<item>VINGT|SEPT</item>
+		<item>VINGT|HUIT</item>
+		<item>VINGT|NEUF</item>
+		<item>TRENTE</item>
+		<item>TRENTE|ET|UN</item>
+		<item>TRENTE|DEUX</item>
+		<item>TRENTE|TROIS</item>
+		<item>TRENTE|QUATRE</item>
+		<item>TRENTE|CINQ</item>
+		<item>TRENTE|SIX</item>
+		<item>TRENTE|SEPT</item>
+		<item>TRENTE|HUIT</item>
+		<item>TRENTE|NEUF</item>
+		<item>QUARANTE</item>
+		<item>QUARANTE|ET|UN</item>
+		<item>QUARANTE|DEUX</item>
+		<item>QUARANTE|TROIS</item>
+		<item>QUARANTE|QUATRE</item>
+		<item>QUARANTE|CINQ</item>
+		<item>QUARANTE|SIX</item>
+		<item>QUARANTE|SEPT</item>
+		<item>QUARANTE|HUIT</item>
+		<item>QUARANTE|NEUF</item>
+		<item>CINQUANTE</item>
+		<item>CINQUANTE|ET|UN</item>
+		<item>CINQUANTE|DEUX</item>
+		<item>CINQUANTE|TROIS</item>
+		<item>CINQUANTE|QUATRE</item>
+		<item>CINQUANTE|CINQ</item>
+		<item>CINQUANTE|SIX</item>
+		<item>CINQUANTE|SEPT</item>
+		<item>CINQUANTE|HUIT</item>
+		<item>CINQUANTE|NEUF</item>
+		<item>SOIXANTE</item>
+		<item>SOIXANTE|ET|UN</item>
+		<item>SOIXANTE|DEUX</item>
+		<item>SOIXANTE|TROIS</item>
+		<item>SOIXANTE|QUATRE</item>
+		<item>SOIXANTE|CINQ</item>
+		<item>SOIXANTE|SIX</item>
+		<item>SOIXANTE|SEPT</item>
+		<item>SOIXANTE|HUIT</item>
+		<item>SOIXANTE|NEUF</item>
+		<item>SOIXANTE-DIX</item> <!-- 70-->
+		<item>SOIXANTE|ET|ONZE</item>
+		<item>SOIXANTE|DOUZE</item>
+		<item>SOIXANTE|TREIZE</item>
+		<item>SOIXANTE|QUATORZE</item>
+		<item>SOIXANTE|QUINZE</item>
+		<item>SOIXANTE|SEIZE</item>
+		<item>SOIXANTE|DIX-SEPT</item>
+		<item>SOIXANTE|DIX-HUIT</item>
+		<item>SOIXANTE|DIX-NEUF</item>
+		<item>QUATRE-VINGTS</item> <!-- 80 -->
+		<item>QUATRE-VINGT|UN</item>
+		<item>QUATRE-VINGT|DEUX</item>
+		<item>QUATRE-VINGT|TROIS</item>
+		<item>QUATRE-VINGT|QUATRE</item>
+		<item>QUATRE-VINGT|CINQ</item>
+		<item>QUATRE-VINGT|SIX</item>
+		<item>QUATRE-VINGT|SEPT</item>
+		<item>QUATRE-VINGT|HUIT</item>
+		<item>QUATRE-VINGT|NEUF</item>
+		<item>QUATRE-VINGT-DIX</item> <!-- 90 -->
+		<item>QUATRE-VINGT|ONZE</item>
+		<item>QUATRE-VINGT|DOUZE</item>
+		<item>QUATRE-VINGT|TREIZE</item>
+		<item>QUATRE-VINGT|QUATORZE</item>
+		<item>QUATRE-VINGT|QUINZE</item>
+		<item>QUATRE-VINGT|SEIZE</item>
+		<item>QUATRE-VINGT|DIX-SEPT</item> 
+		<item>QUATRE-VINGT|DIX-HUIT</item>
+		<item>QUATRE-VINGT|DIX-NEUF</item>
+		<item>ENTIÈREMENT|CHARGÉE</item>
+	</string-array>
+</resources>

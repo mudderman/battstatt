@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="locale_names">
+		<item>Automatic</item>
+		<item>Danish</item>
+		<item>Dutch</item>
+		<item>German</item>
+		<item>English</item>
+		<item>French</item>
+		<item>Norwegian</item>
+		<item>Spanish</item>
+		<item>Swedish</item>
+	</string-array>
+
+	<string-array name="locale_values">
+		<item>auto</item>
+		<item>dk</item>
+		<item>nl</item>
+		<item>de</item>
+		<item>en</item>
+		<item>fr</item>
+		<item>no</item>
+		<item>es</item>
+		<item>sv_se</item>
+	</string-array>
+
+	<string-array name="action_names">
+		<item>Battery info</item>
+		<item>Battery usage</item>
+		<item>Configure</item>
+		<item>Nothing</item>
+	</string-array>
+
+	<string-array name="action_values">
+		<item>bajawa.intent.action.INFO</item>
+		<item>bajawa.intent.action.USAGE</item>
+		<item>bajawa.intent.action.CONFIGURE</item>
+		<item>bajawa.intent.action.VOID</item>
+	</string-array>
+	
+	<string-array name="capitalize_names">
+		<item>Everything</item>
+		<item>None</item>
+		<item>First word</item>
+		<item>Middle word (and-string)</item>
+		<item>Tens</item>
+		<item>Tens and numbers</item>
+		<item>First letter only</item>
+		<item>First letter in word</item>
+		<item>First letter in tens</item>
+	</string-array>
+	
+	<string-array name="boldify_names">
+		<item>Everything</item>
+		<item>None</item>
+		<item>First word</item>
+		<item>Middle word (and-string)</item>
+		<item>Tens</item>
+		<item>Tens and numbers</item>
+	</string-array>
+	
+	<string-array name="rules_values">
+		<item>all</item>
+		<item>none</item>
+		<item>first</item>
+		<item>and</item>
+		<item>tens</item>
+		<item>tensandnumbers</item>
+		<item>firstletter</item>
+		<item>firstletterword</item>
+		<item>firstlettertens</item>
+	</string-array>
+</resources>
