@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="color_names">
+		<item>Black</item>
+		<item>Blue</item>
+		<item>Cyan</item>
+		<item>Dark grey</item>
+		<item>Grey</item>
+		<item>Green</item>
+		<item>Light grey</item>
+		<item>Magenta</item>
+		<item>Red</item>
+		<item>White</item>
+		<item>Yellow</item>
+	</string-array>
+
+	<string-array name="color_values">
+		<item>#000000</item>
+		<item>#0000ff</item>
+		<item>#00ffff</item>
+		<item>#444444</item>
+		<item>#888888</item>
+		<item>#00ff00</item>
+		<item>#cccccc</item>
+		<item>#ff00ff</item>
+		<item>#ff0000</item>
+		<item>#ffffff</item>
+		<item>#ffff00</item>
+	</string-array>
+
+	<integer-array name="color_values_int">
+		<item>0xff000000</item>
+		<item>0xff0000ff</item>
+		<item>0xff00ffff</item>
+		<item>0xff444444</item>
+		<item>0xff888888</item>
+		<item>0xff00ff00</item>
+		<item>0xffcccccc</item>
+		<item>0xffff00ff</item>
+		<item>0xffff0000</item>
+		<item>0xffffffff</item>
+		<item>0xffffff00</item>
+	</integer-array>
+
+	<string-array name="option_names">
+		<item>On</item>
+		<item>Off</item>
+		<item>No change</item>
+	</string-array>
+	
+	<string-array name="weekday_names">
+		<item>Mondays</item>
+		<item>Tuesdays</item>
+		<item>Wednesdays</item>
+		<item>Thursdays</item>
+		<item>Fridays</item>
+		<item>Saturdays</item>
+		<item>Sundays</item>
+	</string-array>
+	
+	<string-array name="weekday_abbr_names">
+		<item>Mon</item>
+		<item>Tue</item>
+		<item>Wed</item>
+		<item>Thu</item>
+		<item>Fri</item>
+		<item>Sat</item>
+		<item>Sun</item>
+	</string-array>
+	
+</resources>

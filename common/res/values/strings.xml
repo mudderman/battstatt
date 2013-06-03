@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BajawaLib</string>
+    
+    <string name="chosen_color_label">Chosen color: </string>
+    
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="none">none</string>
+    
+    <!-- Color picker -->
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="alpha">Alpha</string>
+    <string name="colorPickerSummary">Long press to choose from a list of presets.</string>
+    
+    <!-- action bar -->
+    <string name="actionbar_activity_not_found">Failed to open intent...</string>
+</resources>

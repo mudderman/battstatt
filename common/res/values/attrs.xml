@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<attr name="entries" format="reference" />
+
+	<declare-styleable name="TogglePreference">
+		<attr name="togglePreference" format="reference" />
+		<attr name="entries" />
+	</declare-styleable>
+
+	<declare-styleable name="OnOffPreference">
+		<attr name="onOffPreferenceStyle" format="reference" />
+		<attr name="summaryOn" format="string" />
+		<attr name="summaryOff" format="string" />
+		<attr name="disableDependentsState" format="boolean" />
+		<attr name="drawableOn" format="reference" />
+		<attr name="drawableOff" format="reference" />
+		<attr name="disableGraphics" format="boolean" />
+	</declare-styleable>
+
+	<declare-styleable name="SimpleColorPickerPreference">
+		<attr name="simpleColorPickerPreferenceStyle" format="reference" />
+		<attr name="entries" />
+		<attr name="values" format="reference" />
+		<attr name="dialogTitle" format="string" />
+	</declare-styleable>
+
+	<declare-styleable name="ColorPickerPreference">
+		<attr name="colorPickerPreferenceStyle" format="reference" />
+		<attr name="color" format="color" />
+		<attr name="displayAlpha" format="boolean" />
+	</declare-styleable>
+
+	<declare-styleable name="FontPickePreference">
+		<attr name="fontPickerPreferenceStyle" format="reference" />
+	</declare-styleable>
+
+	<declare-styleable name="OptionsPickerPreference">
+		<attr name="optionsPickerPreferenceStyle" format="reference" />
+		<attr name="enablingIndex" format="integer" />
+		<attr name="disablingIndex" format="integer" />
+		<attr name="options" format="reference" />
+	</declare-styleable>
+
+	<declare-styleable name="VolumePickerPreference">
+		<attr name="volumePickerPreferenceStyle" format="reference" />
+		<attr name="volumeType">
+			<flag name="call" value="0" />
+			<flag name="system" value="1" />
+			<flag name="ring" value="2" />
+			<flag name="music" value="3" />
+			<flag name="alarm" value="4" />
+			<flag name="notification" value="5" />
+		</attr>
+		<attr name="noChange" format="boolean" />
+	</declare-styleable>
+
+	<declare-styleable name="ActionBar">
+		<attr name="actionBarStyle" format="reference" />
+		<attr name="title" format="string" />
+	</declare-styleable>
+
+	<declare-styleable name="GridLayout">
+		<attr name="numColumns" format="integer" />
+		<attr name="numRows" format="integer" />
+	</declare-styleable>
+</resources>

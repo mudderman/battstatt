@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:paddingRight="?android:attr/scrollbarSize"
+	android:paddingBottom="6dp">
+
+	<View android:id="@+id/colorFrame" android:layout_width="34dp"
+		android:layout_height="34dp" android:background="#ffffff"
+		android:layout_margin="5dp" android:visibility="gone" />
+
+	<View android:id="@+id/color" android:layout_width="32dp"
+		android:layout_height="32dp" android:background="#000000"
+		android:layout_margin="6dp" />
+
+	<TextView android:id="@+id/title" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:singleLine="true"
+		android:ellipsize="marquee" android:fadingEdge="horizontal"
+		android:layout_toRightOf="@id/color" android:text="Title"
+		android:textColor="#000000" android:textSize="18sp"
+		android:layout_marginTop="10dp" />
+
+</RelativeLayout>

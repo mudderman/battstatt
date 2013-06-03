@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:gravity="center">
+
+	<View android:id="@+id/colorFrame" android:layout_width="34dp"
+		android:layout_height="34dp" android:background="#ffffff" />
+
+	<View android:id="@+id/color" android:layout_width="32dp"
+		android:layout_height="32dp" android:layout_margin="1dp"
+		android:background="#000000" />
+
+</RelativeLayout>
