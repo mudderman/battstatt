@@ -2,8 +2,8 @@
 
 The popular (once upon a time) battery widget for Android, now as open source!
 
-[BattStattFree on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.battery)  
-[BattStattPro on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.batterypro)
+[BattStatt Free on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.battery)  
+[BattStatt Pro on Google Play](https://play.google.com/store/apps/details?id=net.bajawa.batterypro)
 
 **NOTE**
 This is the source code as I found it in one of my old subversion repositories. The code is provided as-is (as-found? :smile:) the way it was checked in back in 2011 (which was the last time I touched the code).
